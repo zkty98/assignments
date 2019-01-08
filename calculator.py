@@ -16,4 +16,4 @@ print(x)
 
 print("I'm going use the calculator functions to multiply 7 and 8")
 y = multiply(7,8)
-print(x)
+print(y)
